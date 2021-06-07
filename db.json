@@ -1,0 +1,16 @@
+{
+ | "users": [
+ | {"id": 1, "name": "Marines Mendez", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+ | {"id": 2, "name": "Jose", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+ | {"id": 3, "name": "Carmen", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+ | ],
+ |   "posts": [
+ |     { "id": 1, "title": "¿Porque adoptar animales?", "body": "pienso que es importante adoptar porque.....", "userId": 1 },
+ |     { "id": 2, "title": "¿Que pienso del calentamiento global?", "body":"Deberiamos de hacer algo con este problema .... ", "userId": 1 },
+ |     { "id": 2, "title": "¿Como crear mi propia empresa ?", "body":"antes necesitas saber que  .... ", "userId": 2 }
+ | ],
+ |   "comments": [
+ |     { "id": 1, "body": "some comment", "postId": 1 },
+ |     { "id": 2, "body": "some comment", "postId": 1 }
+ |     ]
+}
